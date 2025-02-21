@@ -54,9 +54,7 @@ The Power BI dashboard includes:
 
 The dataset is based on publicly available university ranking reports.
 
-## Author
 
-This project was developed by **Bhargav** as part of a data analytics initiative.
 
 ---
 
